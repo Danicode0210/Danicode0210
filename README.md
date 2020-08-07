@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###Welcome to my projects
+💻Welcome to my projects
 <!--
 **Danicode0210/Danicode0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
